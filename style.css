@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Martian+Mono:wght@200&display=swap'); 
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+
+
+body{
+    background-color:black;
+}
+
+.name h5{
+   color: #fff;
+   font-size: 40px;
+   font-family: 'IBM Plex Mono', monospace;
+   position: absolute;
+   top: 93%;
+   left: 5%;
+   font-weight: 300;
+}
+ 
